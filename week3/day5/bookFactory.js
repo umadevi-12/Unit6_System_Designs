@@ -42,4 +42,6 @@ const b1 = BookFactory.createBook("Design Patterns", 1500);
 console.log(b1.getCategory()); 
 
 const b2 = BookFactory.createBook("JavaScript Guide", 500);
-console.log(b2.getCategory()); 
+console.log(b2.getCategory());
+
+
